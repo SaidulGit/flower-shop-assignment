@@ -25,7 +25,7 @@ width: 300px;
 }
 .paragraph{
     justify-content:space-around ;
-    font-size: 12px;
+    font-size: 14px;
 }
 .title{font-size: 30px;
     font-weight: 400;
@@ -66,4 +66,25 @@ width: 300px;
 }
 .flower{
     text-align: center;
+}
+.new-sec{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(166, 214, 234,0.7);
+    height: 300px;
+    margin: -10px;
+    margin-top: 30px;
+    align-items: center;
+
+}
+.off{
+    color: rgb(248, 147, 181);
+
+}
+.btn-2{
+    background-color:rgb(220, 110, 110);
+    border-radius: 5px;
+    border: none;
+    padding: 15px 15px;
+    color: white;
 }
