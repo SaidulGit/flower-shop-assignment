@@ -1,12 +1,38 @@
-.img-banner{
-    width: 600px;
-    height: 600px;
-}
+font-family: 'Josefin Sans', sans-serif;
+.img-banner{}
 #ban-img{
-    width:200;
-    height: 400px;
+width: 300px;
 }
 .head-section{
     background-color: rgba(247, 172, 185,0.3);
     display: flex;
+    height: 400px;
+    padding: 5px;
+    justify-content: space-around;
+    align-items: center;
+    margin: -10px;
+}
+.btn{
+    background-color:rgb(220, 110, 110);
+    border-radius: 5px;
+    border: none;
+    padding: 15px 15px;
+    color: white;
+}
+.banner-disc{
+    text-align: center;
+    width: 450px;
+}
+.paragraph{
+    justify-content:space-around ;
+    font-size: 12px;
+}
+.title{font-size: 30px;
+    font-weight: 400;
+}
+.featutes{
+    justify-content:center ;
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
 }
