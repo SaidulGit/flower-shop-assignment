@@ -88,3 +88,14 @@ width: 300px;
     padding: 15px 15px;
     color: white;
 }
+.img-group{
+    display: flex;
+    margin: 20px 10px 100px 100px;
+    gap: 10px;
+    
+}
+.img-22{
+    height: 400px;
+    width: 400px;
+    display: flex;
+}
